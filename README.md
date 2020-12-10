@@ -6,4 +6,4 @@
 * [Recursion](https://snap.17coding.net/snap.html#open:https://raw.githubusercontent.com/roadlabs/viscode_prjs/main/recursion.xml)
 * [Progression Problem](https://snap.17coding.net/snap.html#open:https://raw.githubusercontent.com/roadlabs/viscode_prjs/main/progression.xml)
 * [List as Input](https://snap.17coding.net/snap.html#open:https://raw.githubusercontent.com/roadlabs/viscode_prjs/main/list_as_input.xml)
-
+* [Oracle Character](https://snap.17coding.net/snap.html#open:https://raw.githubusercontent.com/roadlabs/viscode_prjs/main/oracle_chr.xml)
