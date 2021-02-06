@@ -1,6 +1,6 @@
 # Snippets for [Snap!](https://snap.17coding.net) Programming
 
-* [Guess Number](https://snap.17coding.net/snap.html#open:https://raw.githubusercontent.com/roadlabs/SnapSnippets/main/guess_number.xml)
+* [Guess Number](https://snap.17coding.net/snap.html#open:https://roadlabs.github.io/SnapSnippets/guess_number.xml)
 * [Counter](https://snap.17coding.net/snap.html#open:https://raw.githubusercontent.com/roadlabs/SnapSnippets/main/counter.xml)
 * [Math](https://snap.17coding.net/snap.html#open:https://raw.githubusercontent.com/roadlabs/SnapSnippets/main/math.xml)
 * [Recursion](https://snap.17coding.net/snap.html#open:https://raw.githubusercontent.com/roadlabs/SnapSnippets/main/recursion.xml)
