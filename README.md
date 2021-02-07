@@ -1,4 +1,4 @@
-# Snippets for [Snap!](https://snap.17coding.net) Programming
+# [Snippets](https://github.com/roadlabs/SnapSnippets) for [Snap!](https://snap.17coding.net) Programming
 
 * [Guess Number](https://snap.17coding.net/snap.html#open:https://roadlabs.github.io/SnapSnippets/guess_number.xml)
 * [Counter](https://snap.17coding.net/snap.html#open:https://roadlabs.github.io/SnapSnippets/counter.xml)
